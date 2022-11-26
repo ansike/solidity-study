@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "initStudent",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"solidity/hello.sol": "StructTypes"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"solidity/hello.sol": {
+			"keccak256": "0x512002936e4153a98718cfbef6850e72af201ecfdb8ab9c672e8b2cd1fc6fb9c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2f1f69d83a505797ee846f9e80a017d58457cad36990fa570956c5ad77364677",
+				"dweb:/ipfs/QmY7cpCqgzSK7CKe5RRT2CR3wuYtZ9cjcDvCsLvzf5br5c"
+			]
+		}
+	},
+	"version": 1
+}

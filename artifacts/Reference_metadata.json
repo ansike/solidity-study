@@ -1,0 +1,60 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "fMemory",
+				"outputs": [],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "fStorage",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"solidity/hello.sol": "Reference"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"solidity/hello.sol": {
+			"keccak256": "0x4bdd36f60a1d6b6623dbb93f2010febdc588eb0fbaa7a8026756aa8624d422f4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://dfc28a0e04677687228dd7dbbcb255fc2c01d4b3e88f721286b33d70f2a5517a",
+				"dweb:/ipfs/Qmb8s8ALwBarymd9rA7FACj6jenntxSCKcwHQLgdec7ELK"
+			]
+		}
+	},
+	"version": 1
+}
